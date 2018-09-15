@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\FigurasGeometricas\FigurasGeometricas_SOLID\bin\Debug\FigurasGeometricas_SOLID.exe.config
+C:\Users\PC\source\repos\FigurasGeometricas\FigurasGeometricas_SOLID\bin\Debug\FigurasGeometricas_SOLID.exe
+C:\Users\PC\source\repos\FigurasGeometricas\FigurasGeometricas_SOLID\bin\Debug\FigurasGeometricas_SOLID.pdb
+C:\Users\PC\source\repos\FigurasGeometricas\FigurasGeometricas_SOLID\obj\Debug\FigurasGeometricas_SOLID.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\FigurasGeometricas\FigurasGeometricas_SOLID\obj\Debug\FigurasGeometricas_SOLID.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FigurasGeometricas\FigurasGeometricas_SOLID\obj\Debug\FigurasGeometricas_SOLID.exe
+C:\Users\PC\source\repos\FigurasGeometricas\FigurasGeometricas_SOLID\obj\Debug\FigurasGeometricas_SOLID.pdb

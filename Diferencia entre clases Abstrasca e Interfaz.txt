@@ -1,0 +1,38 @@
+///////////////////////////////////////////////////////////////
+/// ¿Cuál es la diferencia entre Clase Astracta e Interfaz? ///
+///////////////////////////////////////////////////////////////
+
+Existen varias diferencias , las cuales son:
+
++----------------------------+----------------------------+
+|      Clase Abstracta       |          Interfaz          |
++----------------------------+----------------------------+
+| Puede heredar o extender   |  Puede extender o          |
+| o extender cualquier clase.|  implementar interfaces.   |
++----------------------------+----------------------------+
+| Puede heredarse de una     | Puede extenderse de varias |
+| sola clase.                | interfaces.                |
++----------------------------+----------------------------+
+| Tiene metodos que sea o no | Exclusivamente puede       |
+| abstractos.                | definir metodos abstractos |
++----------------------------+----------------------------+
+| En java concretamente, en  |                            |
+| las clases abstractas la   |  La palabra "abstract" es  |
+| palabra "abstract" es      |  opcional, ya que se       |
+| obligatoria definir en un  |  infiere el concepto de    |
+| metodo (asi como la clase) |  interfaz.                 |
++----------------------------+----------------------------+
+| En una clase abstracta,    |                            |
+| los métodos abstractos     | Solamente puede haber      |
+| pueden ser public o        | metodos publicos.          |
++----------------------------+----------------------------+
+| Pueden existir variables   | Solo puedes tener          |
+| static, final o static     | constantes (public static  |
+| final con cualquier        | final).                    |
+| modificador de acceso      |                            |
+| protected.                 |                            |
++----------------------------+----------------------------+
+
+Utilizar una u otra depende de las necesidades del sistema.
+Las mas utilizadas son las interfaces ya que se utilizan mucho cuando se trabaja
+con interfaces gráficas.
